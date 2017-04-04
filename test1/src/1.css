@@ -1,0 +1,247 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-03-10 10:49:18
+ * @version $Id$
+ */
+ #box1{
+ 	width: 550px;
+	height: 220px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+	border-bottom: 0px;
+ }
+#box11{
+	width: 20%;
+	height: 40px;
+	font-size: 35px;
+	float: left;
+}
+.box12{
+	width: 20%;
+	height: 40px;
+	background-color: gray;
+	font-size: 35px;
+	float: left;
+	margin-bottom: : 10px;
+}
+#box13{
+ 	width: 500px;
+	height: 40px;
+	position: absolute;
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+	top: 100px;
+	left: 35px;
+ }
+ #box14{
+ 	width: 500px;
+	height: 40px;
+	position: absolute;
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+	top: 160px;
+	left: 35px;
+ }
+ #box2{
+ 	width: 550px;
+	height: 250px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+	border-bottom: 0px;
+ }
+  #box21{
+ 	width: 150px;
+	height: 135px;
+	background-color: red;
+	margin: 10px;
+	float: left;
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+ }
+  .box22{
+ 	width: 350px;
+	height: 30px;
+	margin-top: 30px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+	float: left;
+ }
+  .box23{
+	width: 100px;
+	height: 50px;
+	margin-top: 50px;
+	margin-left: 20px;
+	margin-right: 40px;
+	background-color: red;
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+	font-size: 25px;
+	text-align: center;
+	float: left;
+ }
+
+   #box3{
+ 	width: 550px;
+	height: 100px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+ }
+ #box31{
+ 	width: 500px;
+	height: 40px;
+	position: absolute;
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+	top: 515px;
+	left: 35px;
+ }
+  #box4{
+ 	width: 550px;
+	height: 300px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+	border-top: 0px;
+ }
+ #box41{
+	width: 220.4px;
+	height: 199px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+	border-left: 0px;
+	border-top: 0px;
+	float: left;
+ }
+ #box411{
+ 	width: 80px;
+ 	height: 110px;
+ 	background-color: red;
+ 	margin-top: 30px;
+ 	margin-left: 60px;
+ }
+ #box412{
+ 	width: 80px;
+ 	height: 40px;
+ 	margin-top: 10px;
+ 	margin-left: 60px;
+ 	font-size: 20px;
+ 	text-align: center;
+ }
+  .box42{
+	width: 109.4px;
+	height: 99.3px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+	border-top: 0px;
+	border-left: 0px;
+	float: left;
+ }
+ .box421{
+	width: 40px;
+ 	height: 40px;
+ 	background-color: red;
+ 	margin-top: 20px;
+ 	margin-left: 30px;
+ }
+.box422{
+	width: 60px;
+ 	height: 40px;
+ 	margin-top: 10px;
+ 	margin-left: 20px;
+ 	font-size: 20px;
+ 	text-align: center;
+ }
+ .box43{
+	width: 107.8px;
+	height: 99.3px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+	border-left: 0px;
+	border-right: 0px;
+	border-top: 0px;
+	float: left;
+ }
+ .box44{
+	width: 109.4px;
+	height: 101px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+	border-top: 0px;
+	border-bottom: 0px;
+	border-left: 0px;
+	float: left;
+ }
+ .box45{
+	width: 108px;
+	height: 101;
+	float: left;
+ }
+ #box46{
+	width: 109.5px;
+	height: 101px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+	border-top: 0px;
+	border-bottom: 0px;
+	border-left: 0px;
+	float: left;
+ }
+  #table1{
+ 	position: absolute;
+  	background-color: red;
+ 	width: 140px;
+	height: 40px;
+	margin: 20px;
+	font-size: 25px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+	text-align: center;
+	top: 390px;
+	left: 10px;
+ }
+ #table2{
+ 	position: absolute;
+  	background-color: red;
+ 	width: 140px;
+	height: 40px;
+	margin: 20px;
+	font-size: 25px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+	text-align: center;
+	top: 390px;
+	left: 180px;
+ }
+  #table3{
+ 	position: absolute;
+  	background-color: red;
+ 	width: 140px;
+	height: 40px;
+	margin: 20px;
+	font-size: 25px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+	text-align: center;
+	top: 390px;
+	left: 350px;
+ }
+
