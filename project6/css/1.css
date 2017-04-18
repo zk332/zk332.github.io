@@ -1,0 +1,174 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-03-03 11:19:05
+ * @version $Id$
+ */
+
+#ui-background{
+    width: 860px;
+    height: 500px;
+    margin: 20px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    box-sizing: border-box;
+}
+#ui-background2{
+    width: 860px;
+    height: 500px;
+    margin: 20px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    box-sizing: border-box;
+    display: none;
+}
+.ui-background-box1{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    background-color: gray;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    box-sizing: border-box;
+    float: left;
+}
+.ui-background-picture1{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 80px;
+    left: 250px;
+    display: none;
+}
+#ui-button{
+    width: 330px;
+    height: 50px;
+    margin: 20px;
+    margin-bottom: 0px;
+    display: flex;
+}
+#ui-button-button1{
+    width: 110px;
+    height: 50px;
+    background-color: gray;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-bottom: 0px;
+    border-right: 0px;
+    box-sizing: border-box;
+}
+#ui-button-button2{
+    width: 110px;
+    height: 50px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-bottom: 0px;
+    border-right: 0px;
+    box-sizing: border-box;
+}
+#ui-button-button3{
+    width: 110px;
+    height: 50px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-bottom: 0px;
+    box-sizing: border-box;
+}
+#ui-picture1{
+    width: 800px;
+    height: 600px;
+    margin-left: 20px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+#ui-picture2{
+    width: 800px;
+    height: 600px;
+    margin-left: 20px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    display: none;
+}
+#ui-picture3{
+    width: 800px;
+    height: 600px;
+    margin-left: 20px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    display: none;
+}
+#ui-background3{
+    width: 800px;
+    height: 600px;
+    margin: 20px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+.ui-background3-item{
+    width: 760px;
+    height: 60px;
+    margin: 20px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    box-sizing: border-box;
+    display: none;
+}
+.ui-background3-item-head{
+    width: 80px;
+    height: 59px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-top: 0px;
+    border-left: 0px;
+    border-bottom: 0px;
+    font-size: 200%;
+    text-align: center;
+    box-sizing: border-box;
+    float: left;
+}
+.ui-background3-item-body{
+    width: 550px;
+    height: 59px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-top: 0px;
+    border-left: 0px;
+    border-bottom: 0px;
+    box-sizing: border-box;
+    float: left;
+}
+.ui-background3-item-button{
+    width: 126px;
+    height: 59px;
+    text-align: center;
+    font-size: 200%;
+    float: left;
+}
+#ui-background3-button{
+    width: 200px;
+    height: 50px;
+    background-color: #396;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    top: 1700px;
+    left: 600px;
+    text-align: center;
+    font-size: 200%;
+    color: white;
+    position: absolute;
+}
