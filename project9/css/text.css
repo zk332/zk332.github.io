@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-03-03 11:19:05
+ * @version $Id$
+
+*/
+#myMap{
+	width: 800px;
+	height: 800px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #efefef;
+	float: left;
+}
+#transearch{
+	width: 400px;
+	height: 800px;
+	float: left;
+}
