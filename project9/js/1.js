@@ -28,7 +28,7 @@ transit.search("杭州师范大学仓前新校区", "西湖，宾馆");
 
 var marker = new BMap.Marker(point);
 map.addOverlay(marker);
-var school_info=[
+var schoolmap=[
   [120.015355,30.295605,"小足球场"],
   [120.017924,30.29573, "恕园7号楼食堂"],
   [120.016945,30.297671,"恕园36号楼图书馆"],
@@ -46,9 +46,9 @@ var opts = {
   title: "<span style='color:blue'>",    
 }
 function schoolmarker(){
-	for(var i = 0;i < school_info.length;i++){
-		var point= new BMap.Marker(new BMap.Point(school_info[i][0],school_info[i][1]));
-		var address = school_info[i][2];
+	for(var i = 0;i < schoolmap.length;i++){
+		var point= new BMap.Marker(new BMap.Point(schoolmap[i][0],schoolmap[i][1]));
+		var address = schoolmap[i][2];
 		map.addOverlay(point);
 		OnClick(address,point);
 	}
